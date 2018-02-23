@@ -8,7 +8,7 @@ export class FlashProvider {
     
   }
 
-  show(message, duration){
+  show(message, duration, type?){
  
   }
 
